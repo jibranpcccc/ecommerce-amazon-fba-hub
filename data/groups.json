@@ -1,511 +1,511 @@
 [
   {
-    "id": "amazon-fba-private-label-hub-reddit-1",
-    "title": "r/deals Verified Price Drops",
-    "platform": "Reddit",
-    "category": "Deals & Discounts",
-    "memberCount": "420,000+ members",
-    "description": "Curated verified discounts, price error alerts, electronics clearances, and online promotional coupon codes.",
-    "joinUrl": "https://www.reddit.com/r/deals/",
-    "tags": [
-      "deals",
-      "discounts",
-      "savings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-2",
-    "title": "r/Frugal Financial Optimization",
-    "platform": "Reddit",
-    "category": "Smart Savings",
-    "memberCount": "3,100,000+ members",
-    "description": "Community dedicated to living well on less, waste reduction, meal planning, and finding durable value.",
-    "joinUrl": "https://www.reddit.com/r/Frugal/",
-    "tags": [
-      "frugal",
-      "savings",
-      "value",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-3",
-    "title": "r/fulfillmentbyamazon Sellers",
+    "title": "r/fulfillmentbyamazon FBA Professional Sellers",
     "platform": "Reddit",
     "category": "Amazon FBA",
-    "memberCount": "130,000+ members",
-    "description": "Advanced Amazon seller discussions covering private labeling, PPC bids, logistics, and Amazon brand registry.",
+    "memberCount": "115,000+ members",
+    "description": "The premier community for serious Amazon FBA sellers, discussing wholesale, private label, freight forwarding, and Amazon policy changes.",
     "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
     "tags": [
-      "amazon-fba",
-      "ecommerce",
-      "selling",
-      "reddit"
+      "fba",
+      "amazon",
+      "privatelabel",
+      "ecommerce"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-1",
     "verified": true,
     "featured": true
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-4",
-    "title": "r/shopify Store Owners",
+    "title": "r/FBA Amazon Seller Mastermind",
     "platform": "Reddit",
-    "category": "E-Commerce",
-    "memberCount": "220,000+ members",
-    "description": "Community for Shopify entrepreneurs, store design, theme optimization, checkout conversions, and app integrations.",
-    "joinUrl": "https://www.reddit.com/r/shopify/",
+    "category": "FBA Strategies",
+    "memberCount": "42,000+ members",
+    "description": "Discussions on inventory management, Buy Box algorithm strategies, FBA fee optimization, and brand protection.",
+    "joinUrl": "https://www.reddit.com/r/FBA/",
     "tags": [
-      "shopify",
-      "ecommerce",
-      "marketing",
+      "fba",
+      "amazon",
+      "inventory",
       "reddit"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-2",
     "verified": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "amazon-fba-private-label-hub-discord-5",
-    "title": "E-Commerce Sellers Discord",
-    "platform": "Discord",
-    "category": "E-Commerce Tech",
-    "memberCount": "35,000+ members",
-    "description": "Discord server for brand owners scaling DTC stores, TikTok shop integrations, and supply chain logistics.",
-    "joinUrl": "https://discord.gg/ecommerce",
+    "title": "r/AmazonSeller Seller Central Q&A",
+    "platform": "Reddit",
+    "category": "Seller Central",
+    "memberCount": "195,000+ members",
+    "description": "Troubleshooting account suspensions, Brand Registry, PPC advertising campaigns, listing optimization, and customer returns.",
+    "joinUrl": "https://www.reddit.com/r/AmazonSeller/",
+    "tags": [
+      "amazonseller",
+      "sellercentral",
+      "ppc",
+      "brands"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-3",
+    "verified": true,
+    "featured": true
+  },
+  {
+    "title": "r/ecommerce Multi-Channel Retail",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "380,000+ members",
+    "description": "Discussions on direct-to-consumer strategy, fulfillment logistics, payment processing, conversion rate optimization, and multi-channel expansion.",
+    "joinUrl": "https://www.reddit.com/r/ecommerce/",
     "tags": [
       "ecommerce",
+      "retail",
       "dtc",
-      "discord",
-      "shopify"
+      "logistics"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-4",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-telegram-6",
-    "title": "Daily Deals & Glitches Telegram",
-    "platform": "Telegram",
-    "category": "Deals & Coupons",
-    "memberCount": "92,000+ members",
-    "description": "Instant notifications for Amazon price errors, promo codes, clearance sales, and limited-time discounts.",
-    "joinUrl": "https://t.me/dealnews",
-    "tags": [
-      "deals",
-      "telegram",
-      "coupons",
-      "clearance"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-forum-7",
-    "title": "Shopify Community Forum",
-    "platform": "Forum",
-    "category": "E-Commerce",
-    "memberCount": "900,000+ members",
-    "description": "Official forum for Liquid template coding, Storefront API troubleshooting, and business scaling guidance.",
-    "joinUrl": "https://community.shopify.com",
-    "tags": [
-      "shopify",
-      "forum",
-      "liquid",
-      "dtc"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-forum-8",
-    "title": "Slickdeals Community Forum",
-    "platform": "Forum",
-    "category": "Deals & Discounts",
-    "memberCount": "12,000,000+ members",
-    "description": "The largest social deal-sharing site where millions of members vote on and verify bargains and coupon codes.",
-    "joinUrl": "https://slickdeals.net/forums/",
-    "tags": [
-      "slickdeals",
-      "forum",
-      "discounts",
-      "deals"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-9",
-    "title": "r/SEO Search Engine Optimization",
+    "title": "r/PPC Pay-Per-Click Advertising",
     "platform": "Reddit",
-    "category": "SEO & GEO",
-    "memberCount": "270,000+ members",
-    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
-    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "category": "Paid Advertising",
+    "memberCount": "180,000+ members",
+    "description": "Mastering Amazon Sponsored Products, Google Ads, Meta Ads, and ROAS optimization for e-commerce brands.",
+    "joinUrl": "https://www.reddit.com/r/PPC/",
     "tags": [
-      "seo",
-      "geo",
-      "google",
-      "reddit"
+      "ppc",
+      "advertising",
+      "amazonads",
+      "roas"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-5",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-10",
-    "title": "r/marketing Growth & Strategy",
+    "title": "r/Helium10 Product Research Guild",
+    "platform": "Reddit",
+    "category": "FBA Tools",
+    "memberCount": "18,000+ members",
+    "description": "Best practices for Black Box, Cerebro reverse ASIN lookup, Magnet keyword research, and inventory forecasting.",
+    "joinUrl": "https://www.reddit.com/r/Helium10/",
+    "tags": [
+      "helium10",
+      "productresearch",
+      "keywords",
+      "tools"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-6",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/JungleScout Market Intelligence",
+    "platform": "Reddit",
+    "category": "FBA Tools",
+    "memberCount": "14,000+ members",
+    "description": "Supplier database research, Opportunity Finder strategies, sales estimator accuracy, and listing builder guides.",
+    "joinUrl": "https://www.reddit.com/r/JungleScout/",
+    "tags": [
+      "junglescout",
+      "suppliers",
+      "fba",
+      "analytics"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-7",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/smallbusiness Business Operations",
+    "platform": "Reddit",
+    "category": "Small Business",
+    "memberCount": "2,400,000+ members",
+    "description": "Managing cash flow, business lines of credit, trademark filing, supply chain agreements, and operational scaling.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "operations",
+      "cashflow",
+      "scaling"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-8",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/Entrepreneur Scalable Brand Building",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "Building physical product brands, raising growth capital, supply chain management, and exit valuation multiples.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "brands",
+      "scaling",
+      "founders"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-9",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/digitalmarketing Brand Growth",
     "platform": "Reddit",
     "category": "Digital Marketing",
-    "memberCount": "680,000+ members",
-    "description": "Brand positioning, paid acquisition, funnel attribution, CRO testing, and content marketing case studies.",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "memberCount": "320,000+ members",
+    "description": "Omnichannel marketing strategies, influencer seeding for Amazon storefronts, email capture, and brand equity building.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
     "tags": [
       "marketing",
+      "branding",
       "growth",
-      "strategy",
       "reddit"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-10",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-11",
-    "title": "r/startups Founders & Builders",
+    "title": "r/importing Global Freight & Customs",
     "platform": "Reddit",
-    "category": "Startups & SaaS",
-    "memberCount": "1,600,000+ members",
-    "description": "Discussions on product-market fit, customer discovery interviews, investor pitch decks, and bootstrapping.",
+    "category": "Supply Chain",
+    "memberCount": "24,000+ members",
+    "description": "Ocean and air freight forwarding, customs clearance, HTS codes, tariff classifications, and port logistics.",
+    "joinUrl": "https://www.reddit.com/r/importing/",
+    "tags": [
+      "importing",
+      "freight",
+      "customs",
+      "logistics"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-11",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/Alibaba Supplier Negotiation",
+    "platform": "Reddit",
+    "category": "Product Sourcing",
+    "memberCount": "32,000+ members",
+    "description": "Vetting Chinese manufacturers, Trade Assurance protocols, sample prototyping, factory audits, and MOQ negotiations.",
+    "joinUrl": "https://www.reddit.com/r/Alibaba/",
+    "tags": [
+      "alibaba",
+      "sourcing",
+      "manufacturers",
+      "moq"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-12",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/dropship E-Commerce Fulfillment",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "240,000+ members",
+    "description": "Direct consumer testing, product validation, 3PL warehouse transitions, and margin optimization.",
+    "joinUrl": "https://www.reddit.com/r/dropship/",
+    "tags": [
+      "dropship",
+      "ecommerce",
+      "3pl",
+      "fulfillment"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-13",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/startups Physical Product Founders",
+    "platform": "Reddit",
+    "category": "Startups",
+    "memberCount": "1,850,000+ members",
+    "description": "Discussions on hardware and consumer goods startups, unit economics, packaging design, and customer retention.",
     "joinUrl": "https://www.reddit.com/r/startups/",
     "tags": [
       "startups",
-      "saas",
+      "products",
       "founders",
       "reddit"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-14",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-12",
-    "title": "r/SaaS Software as a Service",
-    "platform": "Reddit",
-    "category": "SaaS Growth",
-    "memberCount": "160,000+ members",
-    "description": "B2B SaaS pricing models, churn reduction, outbound cold email frameworks, and MRR growth teardowns.",
-    "joinUrl": "https://www.reddit.com/r/SaaS/",
-    "tags": [
-      "saas",
-      "b2b",
-      "mrr",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-discord-13",
-    "title": "SEO Professionals Discord",
+    "title": "Amazon Sellers Official Discord",
     "platform": "Discord",
-    "category": "SEO & Search",
-    "memberCount": "28,000+ members",
-    "description": "Real-time discussions between agency operators and enterprise SEO consultants on search visibility.",
-    "joinUrl": "https://discord.gg/seo",
+    "category": "Amazon Community",
+    "memberCount": "48,000+ members",
+    "description": "Active real-time Discord server for Amazon sellers, discussing PPC tactics, catalog fixes, review compliance, and Q4 prep.",
+    "joinUrl": "https://discord.gg/amazonsellers",
     "tags": [
-      "seo",
+      "amazonsellers",
       "discord",
-      "search",
-      "analytics"
+      "fba",
+      "ppc"
     ],
+    "id": "ecommerce-amazon-fba-hub-discord-15",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-telegram-14",
-    "title": "Global Startups Hub Channel",
-    "platform": "Telegram",
-    "category": "Startups & Venture",
+    "title": "E-Commerce Growth Mastermind Discord",
+    "platform": "Discord",
+    "category": "E-Commerce",
+    "memberCount": "62,000+ members",
+    "description": "Multi-platform e-commerce founders sharing revenue metrics, logistics partners, CRO split tests, and advertising setups.",
+    "joinUrl": "https://discord.gg/ecommerce",
+    "tags": [
+      "ecommerce",
+      "discord",
+      "cro",
+      "logistics"
+    ],
+    "id": "ecommerce-amazon-fba-hub-discord-16",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "FBA Mastermind Discord Guild",
+    "platform": "Discord",
+    "category": "FBA Elite",
+    "memberCount": "35,000+ members",
+    "description": "Private label and wholesale sellers discussing container rates, Amazon algorithm updates, and Brand Tailored Promotions.",
+    "joinUrl": "https://discord.gg/fba",
+    "tags": [
+      "fba",
+      "discord",
+      "privatelabel",
+      "wholesale"
+    ],
+    "id": "ecommerce-amazon-fba-hub-discord-17",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Dropshipping & Ecom Discord Lounge",
+    "platform": "Discord",
+    "category": "Online Retail",
+    "memberCount": "55,000+ members",
+    "description": "Product discovery, landing page tear-downs, creative testing, and inventory supply chain management.",
+    "joinUrl": "https://discord.gg/dropshipping",
+    "tags": [
+      "dropshipping",
+      "discord",
+      "creatives",
+      "ecom"
+    ],
+    "id": "ecommerce-amazon-fba-hub-discord-18",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Shopify Official Community Discord",
+    "platform": "Discord",
+    "category": "Store Architecture",
     "memberCount": "78,000+ members",
-    "description": "Updates on venture capital fundings, Product Hunt launches, and SaaS acquisition multiples.",
-    "joinUrl": "https://t.me/startup_hub",
+    "description": "Official community for building DTC storefronts, Liquid theme development, app integrations, and omnichannel sales.",
+    "joinUrl": "https://discord.gg/shopify",
     "tags": [
-      "startups",
-      "telegram",
-      "saas",
-      "venture"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-forum-15",
-    "title": "Product Hunt Community",
-    "platform": "Forum",
-    "category": "Product Launches",
-    "memberCount": "1,000,000+ members",
-    "description": "The best place to discover innovative tech products daily, connect with makers, and collect user feedback.",
-    "joinUrl": "https://www.producthunt.com",
-    "tags": [
-      "producthunt",
-      "makers",
-      "launches",
-      "forum"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-forum-16",
-    "title": "Indie Hackers Community",
-    "platform": "Forum",
-    "category": "Bootstrapping",
-    "memberCount": "250,000+ members",
-    "description": "Transparent revenue shares, founder interviews, and practical guides for bootstrapping profitable online businesses.",
-    "joinUrl": "https://www.indiehackers.com",
-    "tags": [
-      "indiehackers",
-      "bootstrapping",
-      "forum",
-      "saas"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-17",
-    "title": "r/investing Long Term Wealth",
-    "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "investing",
-      "stocks",
-      "wealth",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-18",
-    "title": "r/stocks Market News",
-    "platform": "Reddit",
-    "category": "Stock Market",
-    "memberCount": "6,400,000+ members",
-    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
-    "joinUrl": "https://www.reddit.com/r/stocks/",
-    "tags": [
-      "stocks",
-      "wall-street",
-      "earnings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-19",
-    "title": "r/personalfinance Money Management",
-    "platform": "Reddit",
-    "category": "Personal Finance",
-    "memberCount": "19,000,000+ members",
-    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
-    "joinUrl": "https://www.reddit.com/r/personalfinance/",
-    "tags": [
-      "personal-finance",
-      "budgeting",
-      "savings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-20",
-    "title": "r/financialindependence FIRE Hub",
-    "platform": "Reddit",
-    "category": "Financial Independence",
-    "memberCount": "2,200,000+ members",
-    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
-    "joinUrl": "https://www.reddit.com/r/financialindependence/",
-    "tags": [
-      "fire",
-      "retirement",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-21",
-    "title": "r/wallstreetbets Alpha & Options",
-    "platform": "Reddit",
-    "category": "Trading",
-    "memberCount": "16,500,000+ members",
-    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
-    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
-    "tags": [
-      "wsb",
-      "trading",
-      "options",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-reddit-22",
-    "title": "r/realestateinvesting Wealth Hub",
-    "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "540,000+ members",
-    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
-    "tags": [
-      "real-estate",
-      "syndications",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "amazon-fba-private-label-hub-discord-23",
-    "title": "Stock Market Discord Hub",
-    "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
-    "tags": [
-      "stocks",
-      "trading",
+      "shopify",
       "discord",
-      "market"
+      "storefront",
+      "dtc"
     ],
+    "id": "ecommerce-amazon-fba-hub-discord-19",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-telegram-24",
-    "title": "Bloomberg Market Feed Channel",
+    "title": "Amazon FBA Sellers Global Telegram",
     "platform": "Telegram",
-    "category": "Market News",
-    "memberCount": "140,000+ members",
-    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
-    "joinUrl": "https://t.me/bloomberg",
+    "category": "FBA Alerts",
+    "memberCount": "64,000+ members",
+    "description": "Curated announcements covering Amazon Seller Central policy updates, fee schedule changes, and prime day strategies.",
+    "joinUrl": "https://t.me/fbasellers",
     "tags": [
-      "bloomberg",
-      "macro",
+      "fba",
       "telegram",
-      "news"
+      "amazon",
+      "sellercentral"
     ],
+    "id": "ecommerce-amazon-fba-hub-telegram-20",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-forum-25",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
+    "title": "Private Label Masters Channel Telegram",
+    "platform": "Telegram",
+    "category": "Private Label",
+    "memberCount": "42,000+ members",
+    "description": "Daily case studies on product differentiation, patent search safeguards, custom packaging, and brand equity.",
+    "joinUrl": "https://t.me/privatelabel",
     "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
+      "privatelabel",
+      "telegram",
+      "packaging",
+      "patents"
     ],
+    "id": "ecommerce-amazon-fba-hub-telegram-21",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-forum-26",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
+    "title": "E-Commerce Global Network Telegram",
+    "platform": "Telegram",
+    "category": "E-Commerce News",
+    "memberCount": "52,000+ members",
+    "description": "Global e-commerce retail data, supply chain freight index metrics, consumer spending trends, and platform news.",
+    "joinUrl": "https://t.me/ecommercehub",
     "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
+      "ecommerce",
+      "telegram",
+      "retail",
+      "freight"
     ],
+    "id": "ecommerce-amazon-fba-hub-telegram-22",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-27",
-    "title": "r/technology World News",
-    "platform": "Reddit",
-    "category": "Tech News",
-    "memberCount": "14,000,000+ members",
-    "description": "A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/technology/",
+    "title": "Product Sourcing & Inspection Telegram",
+    "platform": "Telegram",
+    "category": "Sourcing",
+    "memberCount": "38,000+ members",
+    "description": "Direct factory contacts, Canton Fair highlights, pre-shipment inspection checklists, and freight consolidation advice.",
+    "joinUrl": "https://t.me/productsourcing",
     "tags": [
-      "technology",
+      "sourcing",
+      "telegram",
+      "factories",
+      "inspection"
+    ],
+    "id": "ecommerce-amazon-fba-hub-telegram-23",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Amazon PPC & Ads Optimization Telegram",
+    "platform": "Telegram",
+    "category": "Amazon Ads",
+    "memberCount": "34,000+ members",
+    "description": "Day-parting scripts, negative keyword harvesting strategies, Sponsored Brand video benchmarks, and ACOS management.",
+    "joinUrl": "https://t.me/amazonppc",
+    "tags": [
+      "ppc",
+      "telegram",
+      "acos",
+      "advertising"
+    ],
+    "id": "ecommerce-amazon-fba-hub-telegram-24",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Ecom World News Telegram Channel",
+    "platform": "Telegram",
+    "category": "Industry Updates",
+    "memberCount": "46,000+ members",
+    "description": "Breaking news across Amazon, Walmart Marketplace, TikTok Shop, and international e-commerce platforms.",
+    "joinUrl": "https://t.me/ecomworld",
+    "tags": [
+      "ecom",
+      "telegram",
       "news",
-      "industry",
-      "reddit"
+      "marketplaces"
     ],
+    "id": "ecommerce-amazon-fba-hub-telegram-25",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-28",
-    "title": "r/science Academic Research",
+    "title": "r/Shopify Merchant Community",
     "platform": "Reddit",
-    "category": "Science & Innovation",
-    "memberCount": "32,000,000+ members",
-    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
-    "joinUrl": "https://www.reddit.com/r/science/",
+    "category": "DTC Storefront",
+    "memberCount": "240,000+ members",
+    "description": "Shopify store design, checkout optimization, third-party logistics integration, and multi-currency selling.",
+    "joinUrl": "https://www.reddit.com/r/shopify/",
     "tags": [
-      "science",
-      "research",
-      "innovation",
+      "shopify",
+      "dtc",
+      "merchants",
       "reddit"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-26",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-reddit-29",
-    "title": "r/linux Open Source OS",
+    "title": "r/SideProject Creator Hub",
     "platform": "Reddit",
-    "category": "Linux & OS",
-    "memberCount": "920,000+ members",
-    "description": "All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.",
-    "joinUrl": "https://www.reddit.com/r/linux/",
+    "category": "Product Launch",
+    "memberCount": "280,000+ members",
+    "description": "Showcasing bootstrap physical and digital product launches, gathering user feedback, and early monetization.",
+    "joinUrl": "https://www.reddit.com/r/SideProject/",
     "tags": [
-      "linux",
-      "kernel",
-      "open-source",
+      "sideproject",
+      "products",
+      "makers",
       "reddit"
     ],
+    "id": "ecommerce-amazon-fba-hub-reddit-27",
     "verified": true,
     "featured": false
   },
   {
-    "id": "amazon-fba-private-label-hub-discord-30",
-    "title": "Technology & Science Discord",
+    "title": "r/business Enterprise Economics",
+    "platform": "Reddit",
+    "category": "Global Commerce",
+    "memberCount": "1,400,000+ members",
+    "description": "High-level retail supply chain analysis, inflation impact on consumer goods, and commercial trade policies.",
+    "joinUrl": "https://www.reddit.com/r/business/",
+    "tags": [
+      "business",
+      "trade",
+      "retail",
+      "reddit"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-28",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/freelance Professional Network",
+    "platform": "Reddit",
+    "category": "Agency Contractors",
+    "memberCount": "360,000+ members",
+    "description": "Contracting packaging designers, PPC managers, listing copywriters, and 3D product renderers.",
+    "joinUrl": "https://www.reddit.com/r/freelance/",
+    "tags": [
+      "freelance",
+      "contractors",
+      "agencies",
+      "reddit"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-29",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Media Buyers Global Discord",
     "platform": "Discord",
-    "category": "Tech Discussion",
-    "memberCount": "90,000+ members",
-    "description": "Global discussion server for engineering disciplines, scientific methodology, and emerging tech.",
-    "joinUrl": "https://discord.gg/technology",
+    "category": "Paid Acquisition",
+    "memberCount": "52,000+ members",
+    "description": "Professional paid media buyers managing high six-figure monthly ad spend across Google, Amazon, and Meta.",
+    "joinUrl": "https://discord.gg/mediabuyers",
     "tags": [
-      "technology",
+      "mediabuyers",
       "discord",
-      "science",
-      "discussion"
+      "adspend",
+      "roas"
     ],
+    "id": "ecommerce-amazon-fba-hub-discord-30",
     "verified": true,
     "featured": false
   }
