@@ -1,5 +1,24 @@
 [
   {
+    "id": "ecommerce-amazon-fba-hub-reddit-20260915-1",
+    "title": "r/adops Ad Operations & Tracking",
+    "platform": "Reddit",
+    "category": "Tracking & CAPI",
+    "memberCount": "48,000+ members",
+    "description": "Server-side tracking, Conversions API (CAPI), Google Tag Manager, post-iOS14 privacy attribution, and UTM tagging.",
+    "joinUrl": "https://www.reddit.com/r/adops/",
+    "tags": [
+      "adops",
+      "tracking",
+      "capi",
+      "gtm"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "ecommerce-amazon-fba-hub-reddit-20260914-1",
     "title": "r/socialmediamarketing Organic Reach",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
