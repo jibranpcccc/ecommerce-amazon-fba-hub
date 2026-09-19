@@ -1,5 +1,24 @@
 [
   {
+    "id": "ecommerce-amazon-fba-hub-reddit-20260919-1",
+    "title": "r/onlinebusiness Digital Commerce",
+    "platform": "Reddit",
+    "category": "Online Business",
+    "memberCount": "68,000+ members",
+    "description": "Case studies, revenue proof, payment gateway optimization, and recurring subscription e-commerce models.",
+    "joinUrl": "https://www.reddit.com/r/onlinebusiness/",
+    "tags": [
+      "onlinebusiness",
+      "subscriptions",
+      "ecommerce",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "ecommerce-amazon-fba-hub-reddit-20260918-1",
     "title": "r/AffiliateMarket Referral Revenue",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {
