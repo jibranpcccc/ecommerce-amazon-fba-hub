@@ -1,5 +1,24 @@
 [
   {
+    "id": "ecommerce-amazon-fba-hub-reddit-20260920-1",
+    "title": "r/webdev Storefront Engineering",
+    "platform": "Reddit",
+    "category": "Frontend Development",
+    "memberCount": "2,400,000+ members",
+    "description": "Building custom Liquid components, page speed performance, Core Web Vitals optimization, and headless storefronts.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "liquid",
+      "performance",
+      "frontend"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "ecommerce-amazon-fba-hub-reddit-20260919-1",
     "title": "r/onlinebusiness Digital Commerce",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
