@@ -1,5 +1,24 @@
 [
   {
+    "id": "ecommerce-amazon-fba-hub-telegram-20260924-1",
+    "title": "TikTok Viral Trends Channel Telegram",
+    "platform": "Telegram",
+    "category": "Creative Trends",
+    "memberCount": "64,000+ members",
+    "description": "Curated trending sounds, viral video formats, high-CTR hook libraries, and UGC video frameworks.",
+    "joinUrl": "https://t.me/tiktokviraltrends",
+    "tags": [
+      "tiktok",
+      "telegram",
+      "trends",
+      "ugc"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "ecommerce-amazon-fba-hub-telegram-20260923-1",
     "title": "Winning Products Radar Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
