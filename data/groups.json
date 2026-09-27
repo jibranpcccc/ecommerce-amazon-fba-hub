@@ -1,5 +1,24 @@
 [
   {
+    "id": "ecommerce-amazon-fba-hub-telegram-20260927-1",
+    "title": "Facebook Ads Blueprint Telegram",
+    "platform": "Telegram",
+    "category": "Ad Strategies",
+    "memberCount": "52,000+ members",
+    "description": "Testing frameworks, cost-per-acquisition (CPA) targets, ad spend budgeting spreadsheets, and ban appeals.",
+    "joinUrl": "https://t.me/fbads_blueprint",
+    "tags": [
+      "fbads",
+      "telegram",
+      "cpa",
+      "scaling"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "ecommerce-amazon-fba-hub-telegram-20260925-1",
     "title": "Ecom Masters Global Network Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
