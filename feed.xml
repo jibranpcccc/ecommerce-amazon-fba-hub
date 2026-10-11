@@ -4,10 +4,17 @@
     <title>Amazon FBA &amp; Private Label Hub</title>
     <link>https://ecommerce-amazon-fba-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:00:49 GMT</lastBuildDate>
     <atom:link href="https://ecommerce-amazon-fba-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Global Startups Hub Channel (Telegram)</title>
+      <link>https://t.me/startup_hub</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ecommerce-amazon-fba-hub/#ecommerce-amazon-fba-hub-telegram-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:49 GMT</pubDate>
+      <description>Newly verified community added to Amazon FBA &amp; Private Label Hub: Updates on venture capital fundings, Product Hunt launches, and SaaS acquisition multiples.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: SEO Professionals Discord (Discord)</title>
       <link>https://discord.gg/seo</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ecommerce-amazon-fba-hub/#ecommerce-amazon-fba-hub-discord-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ecommerce-amazon-fba-hub/#ecommerce-amazon-fba-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:30:12 GMT</pubDate>
       <description>Newly verified community added to Amazon FBA &amp; Private Label Hub: Mastering Spark Ads, creative fatigue management, Hook-Hold-CTA scripting, and scaling TikTok Shop campaigns.</description>
-    </item>
-<item>
-      <title>Amazon FBA &amp; Private Label Hub Initial Release</title>
-      <link>https://ecommerce-amazon-fba-hub.netlify.app/</link>
-      <pubDate>Mon, 07 Sep 2026 06:05:27 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
