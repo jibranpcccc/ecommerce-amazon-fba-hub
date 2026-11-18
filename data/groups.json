@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/fulfillmentbyamazon FBA Professional Sellers",
+    "platform": "Reddit",
+    "category": "Amazon FBA",
+    "memberCount": "115,000+ members",
+    "description": "The premier community for serious Amazon FBA sellers, discussing wholesale, private label, freight forwarding, and Amazon policy changes.",
+    "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
+    "tags": [
+      "fba",
+      "amazon",
+      "privatelabel",
+      "ecommerce"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-1",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "ecommerce-amazon-fba-hub-forum-20261021-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -627,24 +646,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "title": "r/fulfillmentbyamazon FBA Professional Sellers",
-    "platform": "Reddit",
-    "category": "Amazon FBA",
-    "memberCount": "115,000+ members",
-    "description": "The premier community for serious Amazon FBA sellers, discussing wholesale, private label, freight forwarding, and Amazon policy changes.",
-    "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
-    "tags": [
-      "fba",
-      "amazon",
-      "privatelabel",
-      "ecommerce"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-1",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
-  },
-  {
     "title": "r/FBA Amazon Seller Mastermind",
     "platform": "Reddit",
     "category": "FBA Strategies",
@@ -874,24 +875,6 @@
       "reddit"
     ],
     "id": "ecommerce-amazon-fba-hub-reddit-14",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "title": "Amazon Sellers Official Discord",
-    "platform": "Discord",
-    "category": "Amazon Community",
-    "memberCount": "48,000+ members",
-    "description": "Active real-time Discord server for Amazon sellers, discussing PPC tactics, catalog fixes, review compliance, and Q4 prep.",
-    "joinUrl": "https://www.reddit.com/r/FulfillmentByAmazon/",
-    "tags": [
-      "amazonsellers",
-      "discord",
-      "fba",
-      "ppc"
-    ],
-    "id": "ecommerce-amazon-fba-hub-discord-15",
     "verified": true,
     "featured": false,
     "isTodaysPick": false
