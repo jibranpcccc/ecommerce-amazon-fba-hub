@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/FBA Amazon Seller Mastermind",
+    "platform": "Reddit",
+    "category": "FBA Strategies",
+    "memberCount": "42,000+ members",
+    "description": "Discussions on inventory management, Buy Box algorithm strategies, FBA fee optimization, and brand protection.",
+    "joinUrl": "https://www.reddit.com/r/FBA/",
+    "tags": [
+      "fba",
+      "amazon",
+      "inventory",
+      "reddit"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-2",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "title": "r/fulfillmentbyamazon FBA Professional Sellers",
     "platform": "Reddit",
     "category": "Amazon FBA",
@@ -15,7 +34,7 @@
     "id": "ecommerce-amazon-fba-hub-reddit-1",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -644,24 +663,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/FBA Amazon Seller Mastermind",
-    "platform": "Reddit",
-    "category": "FBA Strategies",
-    "memberCount": "42,000+ members",
-    "description": "Discussions on inventory management, Buy Box algorithm strategies, FBA fee optimization, and brand protection.",
-    "joinUrl": "https://www.reddit.com/r/FBA/",
-    "tags": [
-      "fba",
-      "amazon",
-      "inventory",
-      "reddit"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-2",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/AmazonSeller Seller Central Q&A",
