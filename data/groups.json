@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/AmazonSeller Seller Central Q&A",
+    "platform": "Reddit",
+    "category": "Seller Central",
+    "memberCount": "195,000+ members",
+    "description": "Troubleshooting account suspensions, Brand Registry, PPC advertising campaigns, listing optimization, and customer returns.",
+    "joinUrl": "https://www.reddit.com/r/AmazonSeller/",
+    "tags": [
+      "amazonseller",
+      "sellercentral",
+      "ppc",
+      "brands"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-3",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "title": "r/FBA Amazon Seller Mastermind",
     "platform": "Reddit",
     "category": "FBA Strategies",
@@ -15,7 +34,7 @@
     "id": "ecommerce-amazon-fba-hub-reddit-2",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -663,24 +682,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/AmazonSeller Seller Central Q&A",
-    "platform": "Reddit",
-    "category": "Seller Central",
-    "memberCount": "195,000+ members",
-    "description": "Troubleshooting account suspensions, Brand Registry, PPC advertising campaigns, listing optimization, and customer returns.",
-    "joinUrl": "https://www.reddit.com/r/AmazonSeller/",
-    "tags": [
-      "amazonseller",
-      "sellercentral",
-      "ppc",
-      "brands"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-3",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/ecommerce Multi-Channel Retail",
