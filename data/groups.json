@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/ecommerce Multi-Channel Retail",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "380,000+ members",
+    "description": "Discussions on direct-to-consumer strategy, fulfillment logistics, payment processing, conversion rate optimization, and multi-channel expansion.",
+    "joinUrl": "https://www.reddit.com/r/ecommerce/",
+    "tags": [
+      "ecommerce",
+      "retail",
+      "dtc",
+      "logistics"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-4",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "title": "r/AmazonSeller Seller Central Q&A",
     "platform": "Reddit",
     "category": "Seller Central",
@@ -15,7 +34,7 @@
     "id": "ecommerce-amazon-fba-hub-reddit-3",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -682,24 +701,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/ecommerce Multi-Channel Retail",
-    "platform": "Reddit",
-    "category": "E-Commerce",
-    "memberCount": "380,000+ members",
-    "description": "Discussions on direct-to-consumer strategy, fulfillment logistics, payment processing, conversion rate optimization, and multi-channel expansion.",
-    "joinUrl": "https://www.reddit.com/r/ecommerce/",
-    "tags": [
-      "ecommerce",
-      "retail",
-      "dtc",
-      "logistics"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-4",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/PPC Pay-Per-Click Advertising",
