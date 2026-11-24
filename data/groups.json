@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/JungleScout Market Intelligence",
+    "platform": "Reddit",
+    "category": "FBA Tools",
+    "memberCount": "14,000+ members",
+    "description": "Supplier database research, Opportunity Finder strategies, sales estimator accuracy, and listing builder guides.",
+    "joinUrl": "https://www.reddit.com/r/JungleScout/",
+    "tags": [
+      "junglescout",
+      "suppliers",
+      "fba",
+      "analytics"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-7",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "title": "r/Helium10 Product Research Guild",
     "platform": "Reddit",
     "category": "FBA Tools",
@@ -15,7 +34,7 @@
     "id": "ecommerce-amazon-fba-hub-reddit-6",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -739,24 +758,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/JungleScout Market Intelligence",
-    "platform": "Reddit",
-    "category": "FBA Tools",
-    "memberCount": "14,000+ members",
-    "description": "Supplier database research, Opportunity Finder strategies, sales estimator accuracy, and listing builder guides.",
-    "joinUrl": "https://www.reddit.com/r/JungleScout/",
-    "tags": [
-      "junglescout",
-      "suppliers",
-      "fba",
-      "analytics"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-7",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/smallbusiness Business Operations",
