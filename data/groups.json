@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/smallbusiness Business Operations",
+    "platform": "Reddit",
+    "category": "Small Business",
+    "memberCount": "2,400,000+ members",
+    "description": "Managing cash flow, business lines of credit, trademark filing, supply chain agreements, and operational scaling.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "operations",
+      "cashflow",
+      "scaling"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-8",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "title": "r/JungleScout Market Intelligence",
     "platform": "Reddit",
     "category": "FBA Tools",
@@ -15,7 +34,7 @@
     "id": "ecommerce-amazon-fba-hub-reddit-7",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -758,24 +777,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/smallbusiness Business Operations",
-    "platform": "Reddit",
-    "category": "Small Business",
-    "memberCount": "2,400,000+ members",
-    "description": "Managing cash flow, business lines of credit, trademark filing, supply chain agreements, and operational scaling.",
-    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
-    "tags": [
-      "smallbusiness",
-      "operations",
-      "cashflow",
-      "scaling"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-8",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Entrepreneur Scalable Brand Building",
