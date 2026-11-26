@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/Entrepreneur Scalable Brand Building",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "Building physical product brands, raising growth capital, supply chain management, and exit valuation multiples.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "brands",
+      "scaling",
+      "founders"
+    ],
+    "id": "ecommerce-amazon-fba-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/smallbusiness Business Operations",
     "platform": "Reddit",
     "category": "Small Business",
@@ -15,7 +34,7 @@
     "id": "ecommerce-amazon-fba-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -777,24 +796,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/Entrepreneur Scalable Brand Building",
-    "platform": "Reddit",
-    "category": "Entrepreneurship",
-    "memberCount": "3,500,000+ members",
-    "description": "Building physical product brands, raising growth capital, supply chain management, and exit valuation multiples.",
-    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
-    "tags": [
-      "entrepreneur",
-      "brands",
-      "scaling",
-      "founders"
-    ],
-    "id": "ecommerce-amazon-fba-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/digitalmarketing Brand Growth",
